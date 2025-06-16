@@ -82,4 +82,4 @@ The project includes comprehensive data preprocessing, visualization, model trai
     Rahul Choudhary
     📧 [rahulchoudhary5266@gmail.com](mail to: rahulchoudhary5266@gmail.com)
     📍 Mumbai, Maharashtra, India
-    🔗 [LinkedIn](https://www.linkedin.com/in/rahul-choudhary)
+    🔗 [LinkedIn](https://www.linkedin.com/in/rahul-choudhary-03b571251/)
